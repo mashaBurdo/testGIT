@@ -1,3 +1,3 @@
 'TEST1'
 'test2'
-'test3'
+'TEST3'
